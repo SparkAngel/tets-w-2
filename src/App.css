@@ -1,0 +1,40 @@
+/* stylelint-disable */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #1F1F1F;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  line-height: 21px;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-normal {
+  font-weight: normal;
+}
+
+.wrap {
+  display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    max-width: 1024px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.text-gren {
+  color: green;
+  font-size: 20px;
+}
+
+.text-red {
+  color: red;
+  font-size: 20px;
+}
